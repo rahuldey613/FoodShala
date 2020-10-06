@@ -14,5 +14,5 @@ You can viewthe live [site](https://foodshala122.000webhostapp.com/)Here.
  
  *Registration*
  
- <img src="Screenshot (302)">
+ <img src="Screenshot (302).png">
 
